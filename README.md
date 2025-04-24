@@ -1,13 +1,13 @@
 <h1 align="center">Hey there 👋, I'm Aravind Pulluri</h1>
 <h3 align="center">Tech Enthusiast | Content Creator | Code Explorer</h3>
 
-<div>
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"   />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aravindpulluri116&label=Profile%20views&color=0e75b6&style=flat" alt="aravindpulluri116" />
+</p>
 
 
 ### 🧑‍💻 About Me
