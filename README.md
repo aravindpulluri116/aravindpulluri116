@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/aravindpulluri/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aravindpulluri@gmail.com">
+  <a href="mailto:pulluriaravind@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/your-discord-id" target="blank">
@@ -61,7 +61,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AravindPulluri&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aravindpulluri116&show_icons=true&theme=radical" />
   <br />
  
 </p>
