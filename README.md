@@ -1,87 +1,87 @@
-<h1 align="center">Hey there 👋, I'm Aravind Pulluri</h1>
-<h3 align="center">Tech Enthusiast | Content Creator | Code Explorer</h3>
+<h1 align="center">Aravind Pulluri ✨</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast;Tech+Enthusiast;Content+Creator" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"   />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation">
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aravindpulluri116&label=Profile%20views&color=0e75b6&style=flat" alt="aravindpulluri116" />
+---
+
+### 🧰 Tech Stack
+
+#### 🔮 MERN Stack
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+#### 🌐 Web Development
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+#### 🗃 Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+#### 🚀 DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+#### 🎨 Design & Video Editing
+[![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/)
+[![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+[![CapCut](https://img.shields.io/badge/-CapCut-00C4CC?style=flat-square&logo=capcut&logoColor=white)](https://www.capcut.com/)
+---
+
+### 📊 GitHub Analytics
+<img src="https://profile-counter.glitch.me/aravindpulluri116/count.svg" alt="Visitor Count"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aravindpulluri116&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindpulluri116&layout=compact&theme=nightowl"/>
 </p>
-
-
-### 🧑‍💻 About Me
-
-- 🚀 Always curious about how things work in tech
-- 🌱 Currently diving deep into **Full stack Development** & **Machine learning**
-- 🧩 I love working on side projects that challenge my skills
-- 💡 Passionate about creating tech that makes life easier
-- 📫 Reach out: **pulluriaravind@gmail.com**
-- 😄 Fun fact: I probably debug in my dreams too 🐛💤
-
----
-
-### ✨ Favorite Quote
-
-> "Any sufficiently advanced technology is indistinguishable from magic." – Arthur C. Clarke
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aravindpulluri/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pulluriaravind@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/your-discord-id" target="blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-</p>
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aravindpulluri116&show_icons=true&theme=radical" />
-  <br />
- 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindpulluri116&theme=nightowl" alt="GitHub Streak" />
+</p>
+
+
+---
+
+### 🎥 Content Creation
+
+<p align="center">
+  <a href="https://www.instagram.com/techy.aravind/">
+    <img src="https://img.shields.io/badge/-@techy.aravind-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <br>
+  <em>Sharing tech tips 💡 | Coding tutorials 👨💻 </em>
+  <br>
+  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="150">
 </p>
 
 ---
 
+### 📬 Let's Connect
 
-### 🔍 Currently Exploring
-
-- 🎨 **Machine learning**
-- 🌍 **Open Source Projects**
-- 🧠 **New Tech Frameworks (Next.js, Node.js, and more)**
-- 🔍 **Docker and kubernetes**
+<p align="center">
+  <a href="https://www.linkedin.com/in/aravindpulluri/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pulluriaravind@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/aravindpulluri" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+</p>
 
 ---
 
-### 🎯 Goal
-
-Keep learning, keep building, and help others grow along the way 🚀
-
----
-
-*Thanks for visiting! Drop a ⭐ if you like what I do 🙂*
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>Let's build something amazing!</b></em>
+</p>
