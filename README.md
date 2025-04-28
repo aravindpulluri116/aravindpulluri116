@@ -36,17 +36,23 @@
 [![CapCut](https://img.shields.io/badge/-CapCut-00C4CC?style=flat-square&logo=capcut&logoColor=white)](https://www.capcut.com/)
 ---
 
-### 📊 GitHub Analytics
-<img src="https://profile-counter.glitch.me/aravindpulluri116/count.svg" alt="Visitor Count"/>
+### 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aravindpulluri116&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindpulluri116&layout=compact&theme=nightowl"/>
+  <img src="https://profile-counter.glitch.me/aravindpulluri116/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindpulluri116&theme=nightowl" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindpulluri116&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aravindpulluri116&show_icons=true&locale=en&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindpulluri116&theme=tokyonight" height="150" alt="GitHub Streak" />
 </p>
 
+---
+
+### 📅 GitHub Contributions Calendar
+
+[![Aravind's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aravindpulluri116&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
